@@ -101,6 +101,9 @@
 
     '[SYN-G-GEN OUTPUT START] indent(8) $/./$
 '  psggConverterLib.dll converted from TestControl.xlsx. 
+        '    E_0005
+        '
+        Dim X As Integer
         '    S_0001
         '    new state
         Sub S_0001(bFirst As Boolean)
@@ -108,11 +111,11 @@
             if bFirst = True Then
                 i = 2
             End If
-        ' branch
-        If i = 1 Then
-            m_nextstate = "S_0002"
-        ElseIf i = 2 Then
-            m_nextstate = "S_0004"
+            ' branch
+            If i = 1 Then
+                m_nextstate = "S_0002"
+            ElseIf i=2 Then
+                m_nextstate = "S_0004"
             Else
                 m_nextstate = "S_0003"
             End If
