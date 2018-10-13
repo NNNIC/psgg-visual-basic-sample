@@ -21,4 +21,5 @@ SYN-G-GEN http://syn-g-gen.com
 
 # SAMPLE
 
+![](https://raw.githubusercontent.com/NNNIC/psgg-visual-basic-sample/master/wiki/sample.png)
 
