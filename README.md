@@ -1,18 +1,18 @@
 # psgg-visual-basic-sample
 
-SYN-G-GEN  Visual Basic sample
+StateGo Visual Basic sample
 
 # ENVIRONMENT
 
 Windows  
 Visual Basic  
-SYN-G-GEN http://syn-g-gen.com
+StateGo https://statego.programanic.com
 
 # INSTRUCTION
 
 1. Change the current directory to "playgorund" in this git copy.  
    If a statemachine files exists, run clean.bat  
-2. Execute SYN-G-GEN.  
+2. Execute StateGo.  
 3. Set TestControl as state machine name.  
 4. Set document folder to playground\Test\doc  
 5. Set source folder to playground\Test  
