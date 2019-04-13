@@ -6,7 +6,7 @@ StateGo Visual Basic sample
 
 Windows  
 Visual Basic  
-StateGo https://statego.programanic.com
+[StateGo](https://statego.programanic.com/index-e.html)
 
 # INSTRUCTION
 
